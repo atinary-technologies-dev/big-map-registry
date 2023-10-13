@@ -415,7 +415,7 @@ SEI-Active-learning-workflow:
         - wp3
 sdlabs-wrapper:
     metadata:
-        title: sdlabs_wrapper
+        title: Self-Driving Labs (SDLabs) app
         authors: Daniel Pacheco Gutierrez
         affiliations: Atinary Technologies
         description: |
