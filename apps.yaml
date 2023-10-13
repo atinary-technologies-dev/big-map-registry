@@ -416,7 +416,8 @@ SEI-Active-learning-workflow:
 sdlabs-wrapper:
     metadata:
         title: sdlabs_wrapper
-        authors: Daniel Pacheco Gutierrez (Atinary Technologies)
+        authors: Daniel Pacheco Gutierrez
+        affiliations: Atinary Technologies
         description: |
             SDK for closed-loop optimization via the Atinary SDLabs platform.
             Users can define their parameters, objectives and the optimization algorithm of their choice.
